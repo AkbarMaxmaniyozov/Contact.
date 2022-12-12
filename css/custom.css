@@ -1,0 +1,96 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6
+p {
+    font-family: "Montserrat";
+}
+
+/*Navigation menu*/
+.navbar-brand {
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link .active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 0.875rem;
+    padding: 0.625rem 1.25rem;
+}
+/*Navigation menu*/
+
+/*Home section*/
+.home {
+    background-color: #f0f5f9;
+    padding: 9.375rem 0 6.25rem 0;
+}
+/*Home section*/
+
+/*About section*/
+.about-card-1 {
+    background-color: #fff2e5;
+}
+
+.about-card-2 {
+    background-color: #f8f9fa;
+}
+
+.about-card-3 {
+    background-color: #f0f5f9;
+}
+
+.about__card-img {
+    width: 80px;
+}
+/*About section*/
+
+/*Features section*/
+.features__container {
+    background-color: #f0f5f9;
+}
+/*Features section*/
+
+/*Results section*/
+.result-img {
+    width: 80px;
+    margin-bottom: 1rem;
+}
+/*Results section*/
+
+/*Review section*/
+.carousel__quote {
+    width: 60px;
+}
+
+.man-review {
+    width: 60px;
+}
+
+.review__container {
+    padding: 6.25rem 3.125rem;
+    background-color: #f0f5f9;
+}
+/*Review section*/
+
+/*Pricing card*/
+.pricing__card {
+    background-color: #f0f5f9;
+}
+
+.pricing__img {
+    width: 120px;
+}
+/*Pricing card*/
+
+/*FAQ section*/
+.faq__container {
+    padding: 6.25rem 3.125rem;
+    background-color: #f0f5f9;
+}
+/*FAQ section*/  
